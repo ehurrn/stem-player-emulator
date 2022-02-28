@@ -1,12 +1,8 @@
 # Stem Player Emulator
 ## How to install? [PC, eng]
-1. Download [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-2. Install the [script](https://greasyfork.org/en/scripts/440725-stem-player-emulator) itself
+1. Download [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) (REQUIRES CHROME)
+2. Install the [script](https://greasyfork.org/en/scripts/440729-stem-player-emulatorr) itself
 3. Profit!
 
-## Как установить? [PC, rus]
-1. Установите [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-2. Установите сам [скрипт](https://greasyfork.org/en/scripts/440725-stem-player-emulator)
-3. Готово! Вы превосходны!
 #
 script made by [krystalgamer](https://github.com/krystalgamer/stem-player-emulator/commits?author=krystalgamer)
